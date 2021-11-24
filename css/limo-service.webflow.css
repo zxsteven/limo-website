@@ -282,6 +282,7 @@
 
 .full-quote-form-block {
   margin-bottom: 0px;
+  color: #fff;
 }
 
 .full-quote-form {
@@ -319,7 +320,7 @@
   padding-left: 20px;
   border: 1px none #000;
   background-color: #132b47;
-  color: #162438;
+  color: #fff;
   font-size: 13px;
   font-weight: 500;
 }
